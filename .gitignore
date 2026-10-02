@@ -1,0 +1,15 @@
+node_modules/
+.svelte-kit/
+build/
+data/
+.env
+.env.*
+!.env.example
+playwright-report/
+test-results/
+.DS_Store
+# Original planning/reference material stays local.
+/PLAN.md
+/recipe-page-features.md
+/chef-hat-icon-500.png
+.test-build/

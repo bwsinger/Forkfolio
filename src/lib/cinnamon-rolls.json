@@ -1,0 +1,337 @@
+{
+  "title": "Cinnamon rolls",
+  "description": "Soft rolls with a flour–milk starter, brown butter filling, and cream cheese frosting.",
+  "tags": ["Baking", "Weekend project"],
+  "time": "3½ hours",
+  "oven": "350°F",
+  "servings": [8, 12],
+  "equipment": "Stand mixer with dough hook, {{pans}} {{pan-label}}, rolling pin, serrated knife or unflavored dental floss.",
+  "source": {
+    "label": "Bon Appétit · Zaynab Issa",
+    "url": "https://www.bonappetit.com/recipe/cinnamon-rolls-cream-cheese-frosting"
+  },
+  "quantities": {
+    "milk": {
+      "amount": 2.25,
+      "unit": "cup"
+    },
+    "flour": {
+      "amount": 5.75,
+      "unit": "cup"
+    },
+    "flour-g": {
+      "amount": 719.0,
+      "unit": "g"
+    },
+    "egg": {
+      "amount": 1.0,
+      "unit": "large egg"
+    },
+    "yeast": {
+      "amount": 1.0,
+      "unit": "envelope"
+    },
+    "yeast-oz": {
+      "amount": 0.25,
+      "unit": "oz."
+    },
+    "yeast-tsp": {
+      "amount": 2.25,
+      "unit": "tsp."
+    },
+    "sugar": {
+      "amount": 0.3333333333333333,
+      "unit": "cup"
+    },
+    "sugar-g": {
+      "amount": 67.0,
+      "unit": "g"
+    },
+    "salt": {
+      "amount": 1.75,
+      "unit": "tsp."
+    },
+    "dough-butter": {
+      "amount": 0.5,
+      "unit": "cup"
+    },
+    "dough-butter-stick": {
+      "amount": 1.0,
+      "unit": "stick"
+    },
+    "filling-butter": {
+      "amount": 0.5,
+      "unit": "cup"
+    },
+    "filling-butter-stick": {
+      "amount": 1.0,
+      "unit": "stick"
+    },
+    "brown-sugar": {
+      "amount": 1.0,
+      "unit": "packed cup"
+    },
+    "brown-sugar-g": {
+      "amount": 200.0,
+      "unit": "g"
+    },
+    "cinnamon": {
+      "amount": 2.0,
+      "unit": "Tbsp."
+    },
+    "filling-cream": {
+      "amount": 2.0,
+      "unit": "Tbsp."
+    },
+    "filling-salt": {
+      "amount": 0.25,
+      "unit": "tsp."
+    },
+    "frosting-butter": {
+      "amount": 4.0,
+      "unit": "Tbsp."
+    },
+    "cream-cheese": {
+      "amount": 8.0,
+      "unit": "oz."
+    },
+    "powdered-sugar": {
+      "amount": 1.25,
+      "unit": "cup"
+    },
+    "powdered-sugar-g": {
+      "amount": 138.0,
+      "unit": "g"
+    },
+    "frosting-cream": {
+      "amount": 1.0,
+      "unit": "Tbsp."
+    },
+    "lemon-zest": {
+      "amount": 1.0,
+      "unit": "tsp."
+    },
+    "frosting-salt": {
+      "amount": 0.25,
+      "unit": "tsp."
+    },
+    "starter-milk": {
+      "amount": 0.75,
+      "unit": "cup",
+      "from": "milk",
+      "share": 0.3333333333333333
+    },
+    "starter-flour": {
+      "amount": 0.25,
+      "unit": "cup",
+      "from": "flour",
+      "share": 0.043478260869565216
+    },
+    "starter-flour-g": {
+      "amount": 31.0,
+      "unit": "g",
+      "from": "flour-g",
+      "share": 0.043115438108484005
+    },
+    "remaining-milk": {
+      "amount": 1.5,
+      "unit": "cup",
+      "from": "milk",
+      "share": 0.6666666666666666
+    },
+    "remaining-flour": {
+      "amount": 5.5,
+      "unit": "cup",
+      "from": "flour",
+      "share": 0.9565217391304348
+    },
+    "remaining-flour-g": {
+      "amount": 688.0,
+      "unit": "g",
+      "from": "flour-g",
+      "share": 0.9568845618915159
+    },
+    "extra-powdered-sugar": {
+      "amount": 0.75,
+      "unit": "cup"
+    }
+  },
+  "ingredients": [
+    {
+      "id": "milk",
+      "group": "Dough",
+      "name": "whole milk, divided",
+      "quantities": ["milk"]
+    },
+    {
+      "id": "flour",
+      "group": "Dough",
+      "name": "all-purpose flour, divided",
+      "quantities": ["flour", "flour-g"]
+    },
+    {
+      "id": "egg",
+      "group": "Dough",
+      "name": "",
+      "quantities": ["egg"]
+    },
+    {
+      "id": "yeast",
+      "group": "Dough",
+      "name": "instant yeast",
+      "quantities": ["yeast", "yeast-oz", "yeast-tsp"]
+    },
+    {
+      "id": "sugar",
+      "group": "Dough",
+      "name": "granulated sugar",
+      "quantities": ["sugar", "sugar-g"]
+    },
+    {
+      "id": "salt",
+      "group": "Dough",
+      "name": "kosher salt",
+      "quantities": ["salt"]
+    },
+    {
+      "id": "dough-butter",
+      "group": "Dough",
+      "name": "unsalted butter, room temperature, cut into pieces",
+      "quantities": ["dough-butter", "dough-butter-stick"]
+    },
+    {
+      "id": "filling-butter",
+      "group": "Filling",
+      "name": "unsalted butter",
+      "quantities": ["filling-butter", "filling-butter-stick"]
+    },
+    {
+      "id": "brown-sugar",
+      "group": "Filling",
+      "name": "dark brown sugar",
+      "quantities": ["brown-sugar", "brown-sugar-g"]
+    },
+    {
+      "id": "cinnamon",
+      "group": "Filling",
+      "name": "ground cinnamon",
+      "quantities": ["cinnamon"]
+    },
+    {
+      "id": "filling-cream",
+      "group": "Filling",
+      "name": "heavy cream",
+      "quantities": ["filling-cream"]
+    },
+    {
+      "id": "filling-salt",
+      "group": "Filling",
+      "name": "kosher salt",
+      "quantities": ["filling-salt"]
+    },
+    {
+      "id": "frosting-butter",
+      "group": "Frosting and assembly",
+      "name": "unsalted butter, room temperature, plus more for pans",
+      "quantities": ["frosting-butter"]
+    },
+    {
+      "id": "dusting-flour",
+      "group": "Frosting and assembly",
+      "name": "All-purpose flour, for the work surface",
+      "quantities": []
+    },
+    {
+      "id": "cream-cheese",
+      "group": "Frosting and assembly",
+      "name": "cream cheese, room temperature",
+      "quantities": ["cream-cheese"]
+    },
+    {
+      "id": "powdered-sugar",
+      "group": "Frosting and assembly",
+      "name": "( ; or more) powdered sugar",
+      "quantities": ["powdered-sugar", "powdered-sugar-g"]
+    },
+    {
+      "id": "frosting-cream",
+      "group": "Frosting and assembly",
+      "name": "(or more) heavy cream",
+      "quantities": ["frosting-cream"]
+    },
+    {
+      "id": "lemon-zest",
+      "group": "Frosting and assembly",
+      "name": "lemon zest, optional",
+      "quantities": ["lemon-zest"]
+    },
+    {
+      "id": "frosting-salt",
+      "group": "Frosting and assembly",
+      "name": "kosher salt",
+      "quantities": ["frosting-salt"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "step-1",
+      "group": "Make the dough",
+      "title": "Cook the flour–milk starter",
+      "text": "Whisk {{starter-milk}} whole milk and {{starter-flour}} ({{starter-flour-g}}) all-purpose flour in a medium saucepan until smooth.\n\nPlace over medium heat and cook, whisking constantly, until the mixture thickens and whisk lines are visible on the bottom of the pan, about 2 minutes.\n\nScrape this starter (tangzhong) into the bowl of a stand mixer and let cool."
+    },
+    {
+      "id": "step-2",
+      "group": "Make the dough",
+      "title": "Mix and knead",
+      "text": "To the cooled starter, add {{egg}}, {{yeast}} ({{yeast-oz}} ; about {{yeast-tsp}}) instant yeast, {{sugar}} ({{sugar-g}}) granulated sugar, {{salt}} kosher salt, and the remaining {{remaining-milk}} whole milk. Whisk to combine.\n\nAdd the remaining {{remaining-flour}} ({{remaining-flour-g}}) all-purpose flour. Fit the mixer with its dough hook. Mix on low until combined, about 1 minute.\n\nIncrease to medium-low. Mix, occasionally scraping down the bowl, until smooth and elastic, 18–24 minutes.\n\nCheck the dough: Pinch off a golf-ball-size piece and stretch it between your fingers as thinly as possible without breaking. If light shows through, it is ready. Otherwise, mix a few minutes longer and test again."
+    },
+    {
+      "id": "step-3",
+      "group": "Make the dough",
+      "title": "Add butter and let rise",
+      "text": "Add {{dough-butter}} ({{dough-butter-stick}}) room-temperature unsalted butter, cut into pieces. Mix on medium until incorporated, about 2 minutes.\n\nContinue mixing until the dough pulls cleanly away from the bowl and is no longer tacky, 5–7 minutes longer.\n\nRemove the bowl from the mixer and cover with a damp kitchen towel. Leave in a warm spot until doubled in volume, 60–90 minutes."
+    },
+    {
+      "id": "step-4",
+      "group": "Make the filling",
+      "title": "Brown the butter and mix",
+      "text": "While the dough rises, cook {{filling-butter}} ({{filling-butter-stick}}) unsalted butter in a small saucepan over medium heat, stirring occasionally. When it foams and the milk solids turn dark amber, about 4 minutes, transfer it to a heatproof bowl. Let cool slightly.\n\nMix in {{brown-sugar}} ({{brown-sugar-g}}) dark brown sugar, {{cinnamon}} ground cinnamon, {{filling-cream}} heavy cream, and {{filling-salt}} kosher salt."
+    },
+    {
+      "id": "step-5",
+      "group": "Shape, bake and frost",
+      "title": "Roll out and fill",
+      "text": "Butter {{pans}} {{pan-label}}. Punch down the dough and move it to a lightly floured surface. Divide into {{portions}} {{portion-label}} and shape each portion separately.\n\nStretch into a rough rectangle. If stiff, let it rest 5–10 minutes so the gluten can relax.\n\nRoll each portion into a {{width}} × 13-inch rectangle, with the {{width}}-inch edge closest to you. Divide the filling evenly among the portions and spread it over each rectangle."
+    },
+    {
+      "id": "step-6",
+      "group": "Shape, bake and frost",
+      "title": "Shape the rolls and let rise",
+      "text": "Starting at the edge closest to you, roll the dough tightly into a log. Turn it seam-side down.\n\nWith a sharp serrated knife and long sawing motions, trim and discard the ends. Cut each log into roughly 2-inch-wide rounds, using the serrated knife or, preferably, unflavored dental floss. Aim for about {{rolls}} rolls total.\n\nUsing floss: Slide it underneath the dough, cross it over the top, and pull the ends through.\n\nArrange the rolls cut-side down, with up to 6 rolls per pan. Cover with damp kitchen towels and leave in a warm spot until doubled in volume, about 30–50 minutes."
+    },
+    {
+      "id": "step-7",
+      "group": "Shape, bake and frost",
+      "title": "Bake",
+      "text": "Position a rack in the middle of the oven and preheat to 350°F.\n\nBake until the rolls are golden on top and puffed, 25–30 minutes. A dramatic rise in the center is normal."
+    },
+    {
+      "id": "step-8",
+      "group": "Shape, bake and frost",
+      "title": "Make the frosting",
+      "text": "Meanwhile, beat {{frosting-butter}} room-temperature unsalted butter and {{cream-cheese}} room-temperature cream cheese in a large bowl with an electric mixer on medium speed or a whisk. Scrape down the bowl as needed and beat until combined.\n\nAdd {{powdered-sugar}} ({{powdered-sugar-g}}) powdered sugar, {{frosting-cream}} heavy cream, {{lemon-zest}} lemon zest (optional), and {{frosting-salt}} kosher salt. Beat until smooth and the sugar is incorporated.\n\nTaste and beat in up to {{extra-powdered-sugar}} additional powdered sugar, if desired. Thin with more cream, 1 teaspoon at a time, until thick but spreadable."
+    },
+    {
+      "id": "step-9",
+      "group": "Shape, bake and frost",
+      "title": "Cool briefly and frost",
+      "text": "Let the cinnamon rolls cool in their pans for 5 minutes, then spread the frosting over them."
+    }
+  ],
+  "shaping": {
+    "rolls": 12,
+    "perPan": 6,
+    "width": 24,
+    "height": 13
+  }
+}

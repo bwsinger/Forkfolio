@@ -1,0 +1,10 @@
+node_modules/
+build/
+.test-build/
+.svelte-kit/
+data/
+test-results/
+playwright-report/
+PLAN.md
+recipe-page-features.md
+package-lock.json
